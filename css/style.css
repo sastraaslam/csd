@@ -1,0 +1,15 @@
+#header .navbar img {
+    margin-right: 10px;
+}
+
+#header .navbar  .navbar-brand {
+    display: none;
+}
+
+
+
+@media (min-width:992px) {
+    #header .navbar a {
+        display: inline;
+    }
+}
