@@ -1,0 +1,102 @@
+#header .navbar img {
+    margin-right: 10px;
+}
+
+#header .navbar .navbar-brand {
+    display: none;
+}
+
+#album {
+
+    margin-top: -80px;
+}
+
+.maps {
+    width: 300px;
+    height: 150px;
+
+    margin-left: 40px;
+}
+
+.gelombang {
+    margin-top: -69px;
+}
+
+
+
+.brdr{
+    width: 299px;
+    margin-left: 52px ;
+    margin-top: 5px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    
+   
+}
+
+.text{
+    border: 5px solid red;
+    border-radius: 50px;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+.casa{
+    margin-left: -10px;
+}
+
+
+
+
+
+@media (min-width:992px) {
+    #header .navbar a {
+        display: inline;
+    }
+
+    #album {
+        margin-top: -250px;
+    }
+
+    .maps {
+        width: 800px;
+        height: 400px;
+        margin-left: 148px;
+
+    }
+
+    .gelombang {
+
+        margin-top: -230px;
+    }
+
+    #border .border {
+        border-top: 1px;
+        
+    }
+    .brdr{
+        width: 800px;
+        margin-left: 265px;
+        margin-top: 20px;
+    }
+    h1{
+        text-align: center;
+        color: rgb(255, 0, 0);
+    }
+    .text{
+        border: 5px solid red;
+        border-radius: 50px;
+        background-color: black;
+    }
+   .casa{
+        margin-left: -10px;
+    } 
+
+
+}
